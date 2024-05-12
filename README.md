@@ -7,7 +7,7 @@ Welcome to our E-commerce Website! This project is designed to provide users wit
 ![1](https://github.com/105vikas/Online-Retailer-website/assets/84243294/cbdf89bd-aa79-47c4-ad80-7ae437261a94)
 ![2](https://github.com/105vikas/Online-Retailer-website/assets/84243294/bd988431-79ff-4d51-989a-655024f9d2fb)
 ![3](https://github.com/105vikas/Online-Retailer-website/assets/84243294/0f2f0145-54cf-459c-9e77-f068b07b8909)
-![4](https://github.com/105vikas/Online-Retailer-website/assets/84243294/85b0424d-b215-4fb2-bd18-c21a0d25d08a)
+![4](https://github.com/105vikas/Online-Retailer-website/assets/84243294/cbe1e379-bc2d-450b-b481-116d94b58621)
 
 - **Product Management:**
   - Product Listing
