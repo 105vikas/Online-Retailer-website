@@ -4,9 +4,10 @@
 Welcome to our E-commerce Website! This project is designed to provide users with a seamless shopping experience, featuring a range of core e-commerce functionalities, secure payment processing, and an intuitive admin panel for efficient product and order management.
 
 ## Features
-![1](https://github.com/105vikas/Online-Retailer-website/assets/84243294/bd988431-79ff-4d51-989a-655024f9d2fb)
-![2](https://github.com/ramanbajpai7/Ecommerce_website/assets/84241394/e0c32ac2-cb13-446e-a4a3-cb7f3fe7b129)
-![3](https://github.com/ramanbajpai7/Ecommerce_website/assets/84241394/17935f0f-45ef-4a6b-afcc-dfb24b3e61ae)
+![1](https://github.com/105vikas/Online-Retailer-website/assets/84243294/cbdf89bd-aa79-47c4-ad80-7ae437261a94)
+![2](https://github.com/105vikas/Online-Retailer-website/assets/84243294/bd988431-79ff-4d51-989a-655024f9d2fb)
+![3](https://github.com/105vikas/Online-Retailer-website/assets/84243294/0f2f0145-54cf-459c-9e77-f068b07b8909)
+![4](https://github.com/105vikas/Online-Retailer-website/assets/84243294/85b0424d-b215-4fb2-bd18-c21a0d25d08a)
 
 - **Product Management:**
   - Product Listing
